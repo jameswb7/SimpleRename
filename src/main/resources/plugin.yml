@@ -1,0 +1,4 @@
+name: SimpleRename
+main: com.james.simplerename.Main
+version: 1.0
+author: James
