@@ -2,7 +2,7 @@
 
 SimpleRename is a plugin designed to edit item names & lore with ease.
 
-Commands:
+# Commands:
 /rename <name>
 /rename remove
 /lore add <line;text> <text>
@@ -10,9 +10,9 @@ Commands:
 /lore delete <line;text> <text>
 /lore clear <line;text> <text>
 
-Permission Node:
+# Permission Node:
 command.rename
 command.lore
 
-Credit:
+# Credit:
 ACF - https://github.com/aikar/commands
